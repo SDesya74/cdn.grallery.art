@@ -1,0 +1,7 @@
+.idea
+vendor
+flags
+uploads
+
+composer.lock
+composer.phar

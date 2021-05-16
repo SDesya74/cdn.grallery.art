@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/api.grallery.art",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "SDesya74",
+      "email": "sdesya74@gmail.com"
+    }
+  ],
+  "require": {
+    "phroute/phroute": "v1.4.4",
+    "ext-json": "*",
+    "ext-apache": "*",
+    "ext-zlib": "*",
+    "ext-curl": "*",
+    "ext-fileinfo": "*",
+    "ext-exif": "*",
+    "ext-http": "*"
+  }
+}
